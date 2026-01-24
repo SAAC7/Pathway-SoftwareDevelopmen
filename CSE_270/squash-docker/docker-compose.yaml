@@ -1,0 +1,11 @@
+services:
+  cse270:
+    container_name: squash
+    image: pathwayswdev/cse270
+    stdin_open: true
+    tty: true
+    ports:
+      - "8090:8080"
+    volumes:
+      - ./db/data:/opt/squash-tm/data
+#      - ./data1/opt/:/opt

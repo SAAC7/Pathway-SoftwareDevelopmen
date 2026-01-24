@@ -1,8 +1,0 @@
-services:
-    cse270:
-        container_name: squash
-        stdin_open: true
-        tty: true
-        ports:
-            - 8090:8080
-        image: pathwayswdev/cse270
