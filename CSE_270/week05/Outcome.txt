@@ -1,0 +1,4 @@
+Home page load test: PASSED (avg 1ms < 50ms)
+Home page stress test: PASSED (avg 7ms < 100ms)
+Directory load test: PASSED (avg 1ms < 50ms)
+Directory stress test: PASSED (avg 7ms < 100ms)
