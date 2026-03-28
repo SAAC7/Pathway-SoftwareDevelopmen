@@ -1,0 +1,76 @@
+Propuesta de Proyecto Final: Movie & Series Hub
+1. Resumen (Overview)
+
+Descripción: El proyecto consiste en una aplicación web interactiva que funciona como un catálogo dinámico de cine y televisión. El problema que busca resolver es la dificultad de los usuarios para decidir qué ver, ofreciendo información centralizada, calificaciones reales y recomendaciones personalizadas.
+Motivación: Mi interés nace de la pasión por el cine y el deseo de aplicar conceptos avanzados de JavaScript (como el manejo de APIs externas y almacenamiento local) en una interfaz visualmente atractiva y funcional.
+2. Público Objetivo (Target Audience)
+
+La aplicación está dirigida a entusiastas del cine y las series que buscan una herramienta rápida y ligera para explorar estrenos, consultar sinopsis y organizar una lista personal de contenidos pendientes de ver (Watchlist).
+3. Funciones Principales (8 requeridas)
+
+    Exploración de Tendencias: Carga automática de las películas más populares del momento en la página de inicio.
+
+    Búsqueda Avanzada: Barra de búsqueda que permite encontrar títulos específicos por nombre en tiempo real.
+
+    Filtrado por Género: Menú de categorías (Acción, Comedia, Drama, etc.) para segmentar los resultados.
+
+    Sistema de Favoritos (Watchlist): Opción de "Guardar" películas en una lista personal, almacenada de forma persistente en el localStorage.
+
+    Detalle Expandido: Una vista secundaria o ventana modal que muestra la sinopsis completa, fecha de estreno y calificación de cada título.
+
+    Recomendaciones Relacionadas: Al seleccionar una película, la app sugerirá 5 títulos similares basados en algoritmos de la API.
+
+    Ordenamiento Dinámico: Funcionalidad para ordenar los resultados por fecha de lanzamiento o por puntaje de la crítica.
+
+    Indicador de Carga (Skeleton/Spinner): Elemento visual que indica al usuario que los datos se están obteniendo de la base de datos externa.
+
+4. Wireframes (Diseño)
+
+(Aquí debes adjuntar tus bocetos. Recuerda incluir una versión para móvil -vertical- y una para escritorio -horizontal-).
+5. Datos Externos (External Data)
+
+    API Principal: The Movie Database (TMDb) API.
+
+    Atributos de Datos: Se utilizarán más de 8 atributos por objeto, incluyendo: id, title, poster_path (imagen), overview (sinopsis), release_date, vote_average, genre_ids y popularity.
+
+    Almacenamiento Local: Se utilizará JSON y localStorage para guardar la lista de favoritos del usuario.
+
+6. Lista de Módulos (Estructura de archivos)
+
+    index.html: Estructura principal de la aplicación.
+
+    styles/main.css: Estilos generales y diseño responsivo.
+
+    js/main.js: Lógica principal y manejo del DOM.
+
+    js/api.mjs: Módulo encargado exclusivamente de las peticiones fetch a la API.
+
+    js/storage.mjs: Módulo para gestionar el guardado y recuperación en localStorage.
+
+    js/utils.mjs: Funciones reutilizables (formateo de fechas, plantillas de HTML).
+
+7. Identidad Gráfica
+
+    Colores: Fondo oscuro (#0b0d17), detalles en dorado/amarillo (#f5c518) para resaltar ratings, y texto en blanco/gris claro.
+
+    Tipografía: Montserrat para encabezados y Roboto para cuerpo de texto (vía Google Fonts).
+
+    Icono: Un diseño minimalista que combine un rollo de película con un símbolo de "Play" en el centro.
+
+8. Cronograma (Timeline)
+
+    Semana 5: Estructuración del HTML/CSS básico. Registro y configuración de la API Key. Implementación del primer fetch para mostrar tendencias.
+
+    Semana 6: Programación de la búsqueda y los filtros. Creación de la lógica para agregar/eliminar favoritos en el almacenamiento local.
+
+    Semana 7: Diseño de la vista de detalles. Pruebas de usabilidad en dispositivos móviles. Despliegue en GitHub Pages.
+
+9. Tablero de Trello
+
+(Aquí pega el enlace a tu tablero de Trello público).
+10. Desafíos (Challenges)
+
+El mayor desafío que anticipo es gestionar de manera eficiente las imágenes de los pósters para que no afecten el rendimiento de carga y asegurar que el sistema de filtrado funcione correctamente sin necesidad de recargar la página completa.
+
+Siguiente paso recomendado:
+¿Te gustaría que te ayude a redactar una lista de las tareas específicas para tu Trello? Así cuando pongas el link, el profesor verá que tienes todo muy bien organizado.
