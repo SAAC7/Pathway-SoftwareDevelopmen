@@ -1,0 +1,191 @@
+﻿
+        <html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+        <head>
+            <title>Stewardship Assessment Results</title>
+            <style>
+                body { font-family: Arial, sans-serif; padding: 40px; color: #333; line-height: 1.6; }
+                h2 { color: #111; border-bottom: 2px solid #28a745; padding-bottom: 6px; margin-top: 35px; }
+                h3 { color: #28a745; margin-top: 25px; }
+                h4 { font-size: 18px; color: #666; margin: 5px 0 20px 0; }
+                ul { padding-left: 20px; }
+                li { margin-bottom: 6px; }
+                .meta { text-align: right; color: #777; font-size: 12px; margin-bottom: 30px; }
+                .tracker-box { padding: 15px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 4px; margin-top: 15px; }
+            </style>
+        </head>
+        <body>
+            <div class="meta">
+                <strong>Stewardship Survey Assessment (Survey 2 - Post)</strong><br>
+                Date Completed: 9/12/2026
+            </div>
+            
+            <h2>Your Evaluation Result</h2>
+            <h3>Strong Practice This Week</h3>
+            <h4>Total Post-Assessment Score: 59 / 60</h4>
+            
+            
+        <p>
+        Your responses show stewardship-based leadership thinking across multiple contexts. You focus on developing others and view leadership as a sacred responsibility, not a personal opportunity. You resist taking over tasks to get them done faster, and you celebrate when others grow and receive recognition. 
+        </p>
+        <p><strong>Your strengths:</strong></p>
+        <ul>
+            <li>You focus on developing others rather than controlling outcomes</li>
+            <li>You take initiative to serve and bless others without needing recognition</li>
+            <li>You help others become more capable and confident</li>
+        </ul>
+        <p><strong>Growth opportunities:</strong></p>
+        <ul>
+            <li>Share your stewardship approach to help others develop similar leadership identity</li>
+            <li>Look for chances to mentor others in stewardship thinking and in leading without formal authority</li>
+            <li>Continue deepening understanding of stewardship principles in complex situations</li>
+        </ul>
+            
+            <h2>Weekly Progress Metrics</h2>
+            <div class="tracker-box">
+                
+            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                <tr>
+                    <td style="padding: 6px; border: 1px solid #ddd; background-color: #f9f9f9; width: 40%;"><strong>Pre-Assessment Score:</strong></td>
+                    <td style="padding: 6px; border: 1px solid #ddd;">58 / 60</td>
+                </tr>
+                <tr>
+                    <td style="padding: 6px; border: 1px solid #ddd; background-color: #f9f9f9;"><strong>Post-Assessment Score (Current):</strong></td>
+                    <td style="padding: 6px; border: 1px solid #ddd; font-weight: bold;">59 / 60</td>
+                </tr>
+                <tr>
+                    <td style="padding: 6px; border: 1px solid #ddd; background-color: #f9f9f9;"><strong>Calculated Shift:</strong></td>
+                    <td style="padding: 6px; border: 1px solid #ddd; font-weight: bold; color: #28a745;">
+                        +1 Points
+                    </td>
+                </tr>
+            </table>
+        
+            </div>
+            
+            <br/>
+            <h2>Your Specific Survey Selections</h2>
+            <p style="color: #666; font-size: 13px; margin-bottom: 20px;">Review your answers below:</p>
+            
+            
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    1. Question 1.
+This week, I measured my success by how others grew, not by what I achieved on my own. This applies to both my WhatsApp group peers and the people in my home, church, work, or community. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    2. Question 2.
+This week, I asked myself whether my actions helped others grow into their God-given potential or made them depend on me. I asked this in my WhatsApp group and in my family, church, work, or community. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    3. Question 3.
+This week, when I saw a problem I knew how to solve, I usually handled it myself instead of using it to teach others. This applies in WhatsApp discussions and in other settings. <span style="color: #dc3545; font-size: 11px; font-weight: normal;">(Reverse Scored)</span>
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Never <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    4. Question 4.
+This week, I can name examples of how I helped others build confidence in their own decisions. This includes study group peers, family, church members, and people in my community. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    5. Question 5.
+This past week, I deliberately passed on my knowledge and skills to others, rather than holding onto them as a source of my own value. I did this in WhatsApp discussions and in daily life. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    6. Question 6.
+This week, I felt most valuable when others needed me to solve their problems or make their decisions. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    7. Question 7.
+This week, I noticed when my helpfulness was holding others back from growing on their own. This includes giving quick answers in WhatsApp and solving problems too fast in other settings. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    8. Question 8.
+This week, I thought about what would happen in my family, church calling, community role, or WhatsApp study group if I were away for a while. <span style="color: #dc3545; font-size: 11px; font-weight: normal;">(Reverse Scored)</span>
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Never <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    9. Question 9.
+This week, I preferred to handle important or complex situations myself, in WhatsApp discussions or daily leadership, because I could do them faster or better than others. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    10. Question 10.
+This week, I created chances for others to work together and serve together, building collective strength. This includes peers in my study group, family, church members, and people in my community. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    11. Question 11.
+This week, I set clear guidelines based on gospel principles so others in my home, church, work, or community could make righteous decisions on their own. <span style="color: #dc3545; font-size: 11px; font-weight: normal;">(Reverse Scored)</span>
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Rarely <span style="color: #666;">(Calculated Points: 4/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    12. Question 12.
+This week, I checked whether my family, church responsibilities, community work, or even my WhatsApp study group could keep going well without me. That shows sustainable stewardship. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+        </body>
+        </html>

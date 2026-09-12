@@ -1,0 +1,168 @@
+﻿
+        <html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+        <head>
+            <title>Stewardship Assessment Results</title>
+            <style>
+                body { font-family: Arial, sans-serif; padding: 40px; color: #333; line-height: 1.6; }
+                h2 { color: #111; border-bottom: 2px solid #28a745; padding-bottom: 6px; margin-top: 35px; }
+                h3 { color: #28a745; margin-top: 25px; }
+                h4 { font-size: 18px; color: #666; margin: 5px 0 20px 0; }
+                ul { padding-left: 20px; }
+                li { margin-bottom: 6px; }
+                .meta { text-align: right; color: #777; font-size: 12px; margin-bottom: 30px; }
+            </style>
+        </head>
+        <body>
+            <div class="meta">
+                <strong>Stewardship Survey Assessment</strong><br>
+                Date Completed: 9/4/2026
+            </div>
+            
+            <h2>Your Evaluation Result</h2>
+            <h3>Strong Foundation</h3>
+            <h4>Total Score: 52 / 60</h4>
+            
+            
+        <p>
+        Your responses show stewardship-based leadership thinking across multiple contexts. You focus on developing others and view leadership as a sacred responsibility, not a personal opportunity. You resist taking over tasks to get them done faster, and you celebrate when others grow and receive recognition. 
+        </p>
+        <p><strong>Your strengths:</strong></p>
+        <ul>
+            <li>You focus on developing others rather than controlling outcomes</li>
+            <li>You take initiative to serve and bless others without needing recognition</li>
+            <li>You help others become more capable and confident</li>
+        </ul>
+        <p><strong>Growth opportunities:</strong></p>
+        <ul>
+            <li>Share your stewardship approach to help others develop similar leadership identity</li>
+            <li>Look for chances to mentor others in stewardship thinking and in leading without formal authority</li>
+            <li>Continue deepening understanding of stewardship principles in complex situations</li>
+        </ul>
+            
+            <br/>
+            <h2>Your Specific Survey Selections</h2>
+            <p style="color: #666; font-size: 13px; margin-bottom: 20px;">Review your answers below:</p>
+            
+            
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    1. Question 1.
+I view my abilities and opportunities as gifts from God meant to bless others in my home, workplace, church, and community. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    2. Question 2.
+As a disciple of Jesus Christ, I see myself as responsible for developing others rather than controlling what they do. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    3. Question 3.
+I often find it easier to complete tasks myself rather than take time to teach others how to do them. <span style="color: #dc3545; font-size: 11px; font-weight: normal;">(Reverse Scored)</span>
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Sometimes <span style="color: #666;">(Calculated Points: 3/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    4. Question 4.
+I accept responsibility for outcomes that affect others in my home, church, and community, even when I don't have formal authority. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Rarely <span style="color: #666;">(Calculated Points: 2/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    5. Question 5.
+I actively look for ways to contribute positively to my family, workplace, church groups, and community, regardless of my official role. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Sometimes <span style="color: #666;">(Calculated Points: 3/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    6. Question 6.
+I help family members and others learn and grow instead of just solving problems for them. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    7. Question 7.
+I am intentional about how my daily interactions and choices influence others around me. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    8. Question 8.
+I tend to wait for someone in authority to address problems before I get involved. <span style="color: #dc3545; font-size: 11px; font-weight: normal;">(Reverse Scored)</span>
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Rarely <span style="color: #666;">(Calculated Points: 4/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    9. Question 9.
+When family members, friends, or others ask for help, I focus on teaching them rather than just giving them the answer. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    10. Question 10.
+I measure my success as a disciple-leader by how independently others can handle things, not just by immediate results. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    11. Question 11.
+I feel frustrated when others receive recognition for work I helped them accomplish. <span style="color: #dc3545; font-size: 11px; font-weight: normal;">(Reverse Scored)</span>
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Never <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    12. Question 12.
+I celebrate when others in my family, workplace, church, or community succeed or grow, even if they receive the recognition instead of me. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+        </body>
+        </html>
