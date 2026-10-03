@@ -1,0 +1,191 @@
+﻿
+        <html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+        <head>
+            <title>Stewardship Assessment Results</title>
+            <style>
+                body { font-family: Arial, sans-serif; padding: 40px; color: #333; line-height: 1.6; }
+                h2 { color: #111; border-bottom: 2px solid #28a745; padding-bottom: 6px; margin-top: 35px; }
+                h3 { color: #28a745; margin-top: 25px; }
+                h4 { font-size: 18px; color: #666; margin: 5px 0 20px 0; }
+                ul { padding-left: 20px; }
+                li { margin-bottom: 6px; }
+                .meta { text-align: right; color: #777; font-size: 12px; margin-bottom: 30px; }
+                .tracker-box { padding: 15px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 4px; margin-top: 15px; }
+            </style>
+        </head>
+        <body>
+            <div class="meta">
+                <strong>Stewardship Survey Assessment (Survey 2 - Post)</strong><br>
+                Date Completed: 10/3/2026
+            </div>
+            
+            <h2>Your Evaluation Result</h2>
+            <h3>Strong Practice This Week</h3>
+            <h4>Total Post-Assessment Score: 55 / 60</h4>
+            
+            
+       <p>
+    You showed steady personal formation this week in both your WhatsApp group and daily life. You put character growth alongside getting things done. You treated formation as key to lasting leadership. Unlike Carlos early in his story, you likely built real relationships alongside strong systems. 
+</p>
+<p><strong>Your strengths this week:</strong></p>
+<ul>
+    <li>You kept up DAILY framework practices under pressure—in peer interactions and daily leadership.</li>
+    <li>You put who you are becoming above what you accomplish.</li>
+    <li>You saw when efficiency was hurting relationships and character growth.</li>
+</ul>
+<p><strong>Growth opportunities for next week:</strong></p>
+<ul>
+    <li>Share your formation practices with other leaders in your group or daily life to help them build lasting character habits.</li>
+    <li>Look for chances to mentor others in formation-based leadership.</li>
+    <li>Keep deepening your DAILY practices in harder situations.</li>
+</ul>
+            
+            <h2>Weekly Progress Metrics</h2>
+            <div class="tracker-box">
+                
+            <table style="width: 100%; border-collapse: collapse; margin-top: 10px;">
+                <tr>
+                    <td style="padding: 6px; border: 1px solid #ddd; background-color: #f9f9f9; width: 40%;"><strong>Pre-Assessment Score:</strong></td>
+                    <td style="padding: 6px; border: 1px solid #ddd;">55 / 60</td>
+                </tr>
+                <tr>
+                    <td style="padding: 6px; border: 1px solid #ddd; background-color: #f9f9f9;"><strong>Post-Assessment Score (Current):</strong></td>
+                    <td style="padding: 6px; border: 1px solid #ddd; font-weight: bold;">55 / 60</td>
+                </tr>
+                <tr>
+                    <td style="padding: 6px; border: 1px solid #ddd; background-color: #f9f9f9;"><strong>Calculated Shift:</strong></td>
+                    <td style="padding: 6px; border: 1px solid #ddd; font-weight: bold; color: #28a745;">
+                        0 Points
+                    </td>
+                </tr>
+            </table>
+        
+            </div>
+            
+            <br/>
+            <h2>Your Specific Survey Selections</h2>
+            <p style="color: #666; font-size: 13px; margin-bottom: 20px;">Review your answers below:</p>
+            
+            
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    1. Question 1.
+This week, I began each day with intentional time for reflection, prayer, or scripture study that helped me focus on serving others rather than building my own reputation. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    2. Question 2.
+During this week, I committed my leadership efforts in home, church, and community settings to purposes larger than personal advancement. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Often <span style="color: #666;">(Calculated Points: 4/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    3. Question 3.
+This week, when under pressure, I tended to sacrifice my spiritual practices and formation habits for efficiency. <span style="color: #dc3545; font-size: 11px; font-weight: normal;">(Reverse Scored)</span>
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Never <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    4. Question 4.
+During this week, I chose to act according to my stated values rather than taking the most convenient path when facing difficult decisions. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    5. Question 5.
+This week, I addressed performance issues or relationship problems with compassion, even when avoiding these conversations would have been easier. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    6. Question 6.
+During this week, I noticed that I became more impatient, critical, or prideful in my leadership interactions. <span style="color: #dc3545; font-size: 11px; font-weight: normal;">(Reverse Scored)</span>
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Never <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    7. Question 7.
+This week, I helped others grow and succeed in their discipleship journey, even when this required sacrificing time I could have spent on my own advancement. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    8. Question 8.
+During this week, I actively sought feedback and remained open to learning from others, including those I led. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    9. Question 9.
+This week, I resisted input that challenged my current approach or suggested I needed to change. <span style="color: #dc3545; font-size: 11px; font-weight: normal;">(Reverse Scored)</span>
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Never <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    10. Question 10.
+During this week, I held my plans and preferences lightly, adjusting when circumstances required flexibility. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Never <span style="color: #666;">(Calculated Points: 1/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    11. Question 11.
+This week, I recognized when my organizational strengths may have been hindering the relationship building that creates lasting impact, like Carlos discovered. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+            <div style="margin-bottom: 15px; padding-bottom: 10px; border-bottom: 1px dashed #ddd;">
+                <p style="margin: 0 0 5px 0; font-size: 14px; font-weight: bold; color: #333;">
+                    12. Question 12.
+During this week, I demonstrated through my actions that who I am becoming as a leader matters more than what I can accomplish through efficient systems. 
+                </p>
+                <p style="margin: 0; font-size: 13px; color: #007bff;">
+                    <strong>Selected Choice:</strong> Almost Always <span style="color: #666;">(Calculated Points: 5/5)</span>
+                </p>
+            </div>
+        
+        </body>
+        </html>
