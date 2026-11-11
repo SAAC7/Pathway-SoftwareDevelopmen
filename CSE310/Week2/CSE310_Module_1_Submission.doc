@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title>Module Submission</title>
+	<meta name="generator" content="LibreOffice 26.8.1.1 (Linux)"/>
+	<meta name="created" content="00:00:00"/>
+	<meta name="changed" content="2026-11-11T00:12:53.062177876"/>
+	<meta name="" content=""/>
+	<style type="text/css">
+		@page { size: 8.5in 11in; margin-left: 0.79in; margin-right: 0.39in; margin-top: 0.39in; margin-bottom: 0.39in }
+		p { margin-bottom: 0.1in; line-height: 115%; font-family: "Arial", sans-serif; color: #000000; background: transparent }
+		h2 { color: #000000; margin-top: 0.14in; margin-bottom: 0.08in; background: transparent; page-break-after: avoid }
+		h2.western { font-weight: bold; font-size: 18pt; font-family: "Liberation Serif", serif }
+		h2.cjk { font-weight: bold; font-size: 18pt; font-family: "Noto Serif CJK SC" }
+		h2.ctl { font-weight: bold; font-family: "FreeSans"; font-size: 18pt }
+		h3 { color: #000000; margin-top: 0.1in; margin-bottom: 0.08in; background: transparent; page-break-after: avoid }
+		h3.western { font-weight: bold; font-size: 14pt; font-family: "Liberation Serif", serif }
+		h3.cjk { font-weight: bold; font-size: 14pt; font-family: "Noto Serif CJK SC" }
+		h3.ctl { font-weight: bold; font-family: "FreeSans"; font-size: 14pt }
+		td p { widows: 0; orphans: 0; font-family: "Arial", sans-serif; color: #000000; background: transparent }
+		strong { font-weight: bold }
+		a:link { color: #000080; text-decoration: underline }
+		a:visited { color: #800000; text-decoration: underline }
+	</style>
+</head>
+<body lang="es-GT" text="#000000" link="#000080" vlink="#800000" dir="ltr"><h2 class="western">
+CSE 310 – Module Submission</h2>
+<p><strong>Name:</strong> Saúl Abraham Arana Calderón</p>
+<p><strong>Module Number:</strong> 1</p>
+<p><strong>Date:</strong> November 7, 2026</p>
+<p><strong>GitHub Repo:</strong>
+<a href="https://github.com/SAAC7/RustLogAnalyzer">https://github.com/SAAC7/RustLogAnalyzer</a></p>
+<p><strong>Video Link:</strong> <a href="https://youtu.be/hstF8qrHDRk">https://youtu.be/hstF8qrHDRk</a></p>
+<h3 class="western">Selected Module: Rust</h3>
+<h3 class="western">Module-Specific Requirements</h3>
+<table cellpadding="6" cellspacing="0">
+	<tr>
+		<td bgcolor="#e2e3e5" style="background: #e2e3e5; border-top: 1px solid #808080; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding: 0.06in"><p>
+			<b>All of these are required</b></p>
+		</td>
+		<td bgcolor="#e2e3e5" style="background: #e2e3e5; border-top: 1px solid #808080; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding: 0.06in"><p>
+			<b>Completed?</b></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="background: transparent; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p style="font-weight: normal">
+			Variables (mutable and immutable)</p>
+		</td>
+		<td bgcolor="#d4edda" style="background: #d4edda; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p>
+			<b>Yes</b></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="background: transparent; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p style="font-weight: normal">
+			Expressions</p>
+		</td>
+		<td bgcolor="#d4edda" style="background: #d4edda; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p>
+			<b>Yes</b></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="background: transparent; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p style="font-weight: normal">
+			Conditionals</p>
+		</td>
+		<td bgcolor="#d4edda" style="background: #d4edda; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p>
+			<b>Yes</b></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="background: transparent; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p style="font-weight: normal">
+			Loops</p>
+		</td>
+		<td bgcolor="#d4edda" style="background: #d4edda; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p>
+			<b>Yes</b></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="background: transparent; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p style="font-weight: normal">
+			Functions (ownership or reference)</p>
+		</td>
+		<td bgcolor="#d4edda" style="background: #d4edda; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p>
+			<b>Yes</b></p>
+		</td>
+	</tr>
+</table>
+<p style="margin-bottom: 0in"><br/>
+
+</p>
+<table cellpadding="6" cellspacing="0">
+	<tr>
+		<td bgcolor="#e2e3e5" style="background: #e2e3e5; border-top: 1px solid #808080; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding: 0.06in"><p>
+			<b>One of these is required</b></p>
+		</td>
+		<td bgcolor="#e2e3e5" style="background: #e2e3e5; border-top: 1px solid #808080; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding: 0.06in"><p>
+			<b>Completed?</b></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="background: transparent; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p style="font-weight: normal">
+			Use a data structure (e.g. Vec, LinkedList, Hashmap).</p>
+		</td>
+		<td bgcolor="#d4edda" style="background: #d4edda; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p>
+			<b>Yes</b></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="background: transparent; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p style="font-weight: normal">
+			Use slicing.</p>
+		</td>
+		<td bgcolor="#d4edda" style="background: #d4edda; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p>
+			<b>Yes</b></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="background: transparent; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p style="font-weight: normal">
+			Use object oriented techniques using both struct and impl.</p>
+		</td>
+		<td bgcolor="#d4edda" style="background: #d4edda; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p>
+			<b>Yes</b></p>
+		</td>
+	</tr>
+</table>
+<h3 class="western">General Submission Checklist</h3>
+<table cellpadding="6" cellspacing="0">
+	<tr>
+		<td bgcolor="#e2e3e5" style="background: #e2e3e5; border-top: 1px solid #808080; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding: 0.06in"><p>
+			<b>Question</b></p>
+		</td>
+		<td bgcolor="#e2e3e5" style="background: #e2e3e5; border-top: 1px solid #808080; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding: 0.06in"><p>
+			<b>Your Response</b></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="background: transparent; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p style="font-weight: normal">
+			Did you write at least 100 lines of code in your software and
+			include function level comments on all the functions you wrote?</p>
+		</td>
+		<td bgcolor="#d4edda" style="background: #d4edda; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p>
+			<b>Yes</b></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="background: transparent; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p style="font-weight: normal">
+			Did you use the correct README.md template from the Module
+			Description document in Canvas?</p>
+		</td>
+		<td bgcolor="#d4edda" style="background: #d4edda; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p>
+			<b>Yes</b></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="background: transparent; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p style="font-weight: normal">
+			Did you completely populate the README.md template?</p>
+		</td>
+		<td bgcolor="#d4edda" style="background: #d4edda; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p>
+			<b>Yes</b></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="background: transparent; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p style="font-weight: normal">
+			Did you create the video that includes you in a window, and
+			optionally reference it in the README.md file?</p>
+		</td>
+		<td bgcolor="#d4edda" style="background: #d4edda; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p>
+			<b>Yes</b></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="background: transparent; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p style="font-weight: normal">
+			Did you post a link to your video in the proper MS Teams Channel?</p>
+		</td>
+		<td bgcolor="#d4edda" style="background: #d4edda; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p>
+			<b>Yes</b></p>
+		</td>
+	</tr>
+	<tr>
+		<td style="background: transparent; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p style="font-weight: normal">
+			Did you publish the code with the README.md (in the top-level
+			folder) into a public GitHub repository?</p>
+		</td>
+		<td bgcolor="#d4edda" style="background: #d4edda; border-top: none; border-bottom: 1px solid #808080; border-left: 1px solid #808080; border-right: 1px solid #808080; padding-top: 0in; padding-bottom: 0.06in; padding-left: 0.06in; padding-right: 0.06in"><p>
+			<b>Yes</b></p>
+		</td>
+	</tr>
+</table>
+<h3 class="western">Time &amp; Reflection</h3>
+<p><strong>How many hours did you spend on this module this Sprint?
+Include all time including planning, researching, implementation,
+troubleshooting, documentation, video production, and publishing.</strong><br/>
+20</p>
+<p><strong>Record your time log for each day here</strong><br/>
+Week
+1 - Tuesday 2 hours<br/>
+Week 1 - Wednesday 2 hours<br/>
+Week 1 -
+Thursday 2 hours<br/>
+Week 1 - Friday 2 hours<br/>
+Week 1 - Saturday
+2 hours<br/>
+Week 2 - Tuesday 2 hours<br/>
+Week 2 - Wednesday 2
+hours<br/>
+Week 2 - Thursday 2 hours<br/>
+Week 2 - Friday 2
+hours<br/>
+Week 2 - Saturday 2 hours</p>
+<p><strong>What learning strategies worked well in this module and
+what strategies (or lack of strategy) did not work well? How can you
+improve in the next module?</strong><br/>
+What learning strategies
+worked well:<br/>
+Relying directly on the official documentation
+(&quot;The Rust Book&quot;) combined with targeted experimentation in
+small code snippets helped me grasp strict compiler concepts like
+ownership much faster.<br/>
+Breaking down the implementation into
+small daily milestones (1.5 to 2 hours per day) prevented burnout and
+kept steady progress.<br/>
+What strategies did not work
+well:<br/>
+Initially trying to write complex asynchronous or advanced
+traits before fully understanding the basic borrowing rules led to
+early compilation frustrations.<br/>
+How I can improve in the next
+module:<br/>
+For the next module, I plan to spend more time during
+the planning phase writing small prototype functions to test
+unfamiliar syntax before diving into the main implementation, which
+will reduce troubleshooting time.</p>
+</body>
+</html>
